@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LSUDOKO/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/LSUDOKO/leetcode/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/LSUDOKO/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/LSUDOKO/leetcode/tree/master/0493-reverse-pairs) |
@@ -18,6 +19,7 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LSUDOKO/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/LSUDOKO/leetcode/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/LSUDOKO/leetcode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/LSUDOKO/leetcode/tree/master/0792-binary-search) |
