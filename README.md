@@ -4,7 +4,7 @@
 
 Welcome to my curated repository of LeetCode solutions! 💻🚀
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-f89f1b?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-f89f1b?style=for-the-badge&logo=leetcode)](https://leetcode.com/ARPIT737)
 [![Solutions Count](https://img.shields.io/badge/Solutions-80+-blue?style=for-the-badge)](https://github.com/LSUDOKO/leetcode)
 [![Last Updated](https://img.shields.io/badge/Last_Updated-May_2025-green?style=for-the-badge)](https://github.com/LSUDOKO/leetcode)
 
