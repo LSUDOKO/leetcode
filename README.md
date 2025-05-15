@@ -85,7 +85,7 @@ Want to contribute? That's great! Here's how:
 
 ## 🏆 My LeetCode Stats 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/LSUDOKO?theme=dark&font=Noto%20Sans)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ARPIT737?theme=dark&font=Noto%20Sans)
 
 ---
 
