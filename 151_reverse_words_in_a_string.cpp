@@ -9,24 +9,15 @@ public:
     }
 
     string reverseWords(string s) {
-        s = trim(s);
         stringstream ss(s);
         string word;
-        vector<string> words;
+        string b = "";
 
         while (ss >> word) {
-            words.push_back(word);
+            b = word + " " + b;  
         }
 
-        reverse(words.begin(), words.end());
-
-        string result;
-        for (int i = 0; i < words.size(); ++i) {
-            result += words[i];
-            if (i != words.size() - 1)
-                result += " ";
-        }
-
-        return result;
+        b = trim(b);
+        return b;
     }
 };
