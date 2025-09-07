@@ -23,7 +23,7 @@ public:
         Node* prev = NULL;
         Node* newHead = NULL;
 
-        // Step 1: Copy nodes and build next links
+        //Copy nodes and build next links
         while (curr) {
             Node* temp = new Node(curr->val);
             mp[curr] = temp;
