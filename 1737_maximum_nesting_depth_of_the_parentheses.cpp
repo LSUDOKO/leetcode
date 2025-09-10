@@ -1,18 +1,38 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        int count = 0;
-        int ma = 0; 
+        // int maxi=0;
+        // int count=0;
+        // for (int i=0;i<s.size();i++){
+        //     if (s[i]=='('){
+        //         count++;
+        //         maxi=max(count,maxi);
+        //     }
+        //     else if (s[i]==')'){
+        //         count--;
+        //     }
+        // }
+        // return maxi;
+        stack<char> st;
+        int maxi = 0;
 
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == '(') {
-                count++;
-                ma = max(ma, count);
-            } else if (s[i] == ')') {
-                count--;
+        for (char c : s) {
+            if (c == '(') {
+                st.push(c);
+                maxi = max(maxi, (int)st.size());
+            } 
+            else if (c == ')') {
+                if (!st.empty()) {
+                    st.pop();
+                } 
+                else {
+                    return -1;
+                }
             }
         }
 
-        return ma;
+        if (!st.empty()) return -1;
+
+        return maxi;
     }
 };
