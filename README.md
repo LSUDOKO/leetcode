@@ -100,18 +100,22 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/LSUDOKO/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/LSUDOKO/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/LSUDOKO/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/LSUDOKO/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/LSUDOKO/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/LSUDOKO/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/LSUDOKO/leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
