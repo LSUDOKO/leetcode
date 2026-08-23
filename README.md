@@ -104,6 +104,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | [0501-find-mode-in-binary-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LSUDOKO/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LSUDOKO/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/LSUDOKO/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -114,6 +115,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | [0501-find-mode-in-binary-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LSUDOKO/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LSUDOKO/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/LSUDOKO/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -124,6 +126,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | [0501-find-mode-in-binary-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LSUDOKO/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LSUDOKO/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/LSUDOKO/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -133,10 +136,15 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | [0501-find-mode-in-binary-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LSUDOKO/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LSUDOKO/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/LSUDOKO/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LSUDOKO/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LSUDOKO/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Stack
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
