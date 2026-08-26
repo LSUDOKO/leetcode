@@ -146,6 +146,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LSUDOKO/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/LSUDOKO/leetcode/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LSUDOKO/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/LSUDOKO/leetcode/tree/master/0871-keys-and-rooms) |
 | [0933-increasing-order-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -154,6 +155,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LSUDOKO/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/LSUDOKO/leetcode/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LSUDOKO/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/LSUDOKO/leetcode/tree/master/0871-keys-and-rooms) |
 ## Stack
@@ -180,5 +182,10 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/LSUDOKO/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/LSUDOKO/leetcode/tree/master/0871-keys-and-rooms) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/LSUDOKO/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
