@@ -147,6 +147,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | [0501-find-mode-in-binary-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LSUDOKO/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LSUDOKO/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0871-keys-and-rooms](https://github.com/LSUDOKO/leetcode/tree/master/0871-keys-and-rooms) |
 | [0933-increasing-order-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/LSUDOKO/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
@@ -154,6 +155,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LSUDOKO/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LSUDOKO/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0871-keys-and-rooms](https://github.com/LSUDOKO/leetcode/tree/master/0871-keys-and-rooms) |
 ## Stack
 |  |
 | ------- |
@@ -175,4 +177,8 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/LSUDOKO/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/LSUDOKO/leetcode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
