@@ -188,4 +188,24 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/LSUDOKO/leetcode/tree/master/0547-number-of-provinces) |
+## Hash Table
+|  |
+| ------- |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+## String
+|  |
+| ------- |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+## Greedy
+|  |
+| ------- |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+## Counting
+|  |
+| ------- |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
