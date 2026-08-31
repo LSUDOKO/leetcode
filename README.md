@@ -214,4 +214,8 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 |  |
 | ------- |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Linked List
+|  |
+| ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/LSUDOKO/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
