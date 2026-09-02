@@ -158,6 +158,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | [0547-number-of-provinces](https://github.com/LSUDOKO/leetcode/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LSUDOKO/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/LSUDOKO/leetcode/tree/master/0871-keys-and-rooms) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/LSUDOKO/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Stack
 |  |
 | ------- |
@@ -184,6 +185,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | ------- |
 | [0547-number-of-provinces](https://github.com/LSUDOKO/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/LSUDOKO/leetcode/tree/master/0871-keys-and-rooms) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/LSUDOKO/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -218,4 +220,8 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/LSUDOKO/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Prefix Sum
+|  |
+| ------- |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/LSUDOKO/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 <!---LeetCode Topics End-->
