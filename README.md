@@ -224,4 +224,8 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 |  |
 | ------- |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/LSUDOKO/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+## Math
+|  |
+| ------- |
+| [4245-count-commas-in-range](https://github.com/LSUDOKO/leetcode/tree/master/4245-count-commas-in-range) |
 <!---LeetCode Topics End-->
