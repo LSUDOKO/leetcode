@@ -197,15 +197,18 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 ## String
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/LSUDOKO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/LSUDOKO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/LSUDOKO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
