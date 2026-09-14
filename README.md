@@ -230,6 +230,11 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 ## Math
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/LSUDOKO/leetcode/tree/master/0866-rectangle-overlap) |
 | [4245-count-commas-in-range](https://github.com/LSUDOKO/leetcode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/LSUDOKO/leetcode/tree/master/4248-count-commas-in-range-ii) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/LSUDOKO/leetcode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
