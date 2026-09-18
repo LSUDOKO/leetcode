@@ -193,17 +193,20 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 ## Hash Table
 |  |
 | ------- |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/LSUDOKO/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LSUDOKO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/LSUDOKO/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LSUDOKO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/LSUDOKO/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -237,4 +240,8 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/LSUDOKO/leetcode/tree/master/0866-rectangle-overlap) |
+## Sorting
+|  |
+| ------- |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/LSUDOKO/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
