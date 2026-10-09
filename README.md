@@ -166,6 +166,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | [0933-increasing-order-search-tree](https://github.com/LSUDOKO/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/LSUDOKO/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LSUDOKO/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LSUDOKO/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/LSUDOKO/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Lifting
 |  |
@@ -204,6 +205,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | [1021-remove-outermost-parentheses](https://github.com/LSUDOKO/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LSUDOKO/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LSUDOKO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LSUDOKO/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/LSUDOKO/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/LSUDOKO/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -212,6 +214,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LSUDOKO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LSUDOKO/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/LSUDOKO/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -257,5 +260,6 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/LSUDOKO/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LSUDOKO/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LSUDOKO/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/LSUDOKO/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
