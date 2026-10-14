@@ -216,6 +216,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | [1341-split-a-string-in-balanced-strings](https://github.com/LSUDOKO/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LSUDOKO/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/LSUDOKO/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/LSUDOKO/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/LSUDOKO/leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -244,6 +245,7 @@ This project is licensed under the [MIT License](LICENSE) 🔓
 | ------- |
 | [0866-rectangle-overlap](https://github.com/LSUDOKO/leetcode/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/LSUDOKO/leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/LSUDOKO/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4245-count-commas-in-range](https://github.com/LSUDOKO/leetcode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/LSUDOKO/leetcode/tree/master/4248-count-commas-in-range-ii) |
 ## Geometry
